@@ -35,7 +35,7 @@ A reusable **Express 5 + TypeScript** starter with **Drizzle ORM (PostgreSQL)** 
 ### Installation
 
 ```bash
-git clone https://github.com/USERNAME/api-starter.git my-new-app
+git clone https://github.com/Mahomoud-Adel/api-starter.git my-new-app
 cd my-new-app
 npm install
 ```
